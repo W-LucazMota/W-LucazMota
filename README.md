@@ -139,12 +139,9 @@ Me chamo Wilter Lucas Mota Amaral, tenho 22 anos e sou natural de Goiás. Atualm
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white"></a>
       <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=spring%20boot&logoColor=white"></a>
-      <a href="#"><img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?logo=eclipse%20ide&logoColor=white
-      "></a>
-      <a href="#"><img alt="Intellij IDEA" src="https://img.shields.io/badge/Intellij%20IDEA-000000.svg?logo=intellijidea&logoColor=white
-      "></a>
-      <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp%20Control-FB7A24.svg?logo=xampp&logoColor=white
-      "></a>
+      <a href="#"><img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?logo=eclipse%20ide&logoColor=white"></a>
+      <a href="#"><img alt="Intellij IDEA" src="https://img.shields.io/badge/Intellij%20IDEA-000000.svg?logo=intellijidea&logoColor=white"></a>
+      <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp%20Control-FB7A24.svg?logo=xampp&logoColor=white"></a>
       
   </p>
 </details>
