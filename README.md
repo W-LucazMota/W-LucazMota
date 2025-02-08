@@ -19,7 +19,7 @@ Me chamo Wilter Lucas Mota Amaral, tenho 22 anos e sou natural de Goiás. Atualm
             src="https://custom-icon-badges.demolab.com/badge/-wilter amaral-purple?style=for-the-badge&logo=outlook&logoColor=white"
         />
     </a>
-    <a href="https://wa.me/qr/FZ22FGWUCA4TL1">
+    <a href="https://wa.me/5562998847748?text=Ol%C3%A1%2C%20vamos%20trabalhar%20juntos%20%3F">
         <img 
             alt="Phone" 
             title="Talk me on WhatsApp" 
@@ -33,17 +33,17 @@ Me chamo Wilter Lucas Mota Amaral, tenho 22 anos e sou natural de Goiás. Atualm
             src="https://custom-icon-badges.demolab.com/badge/-wlucazz-red?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="">
+    <a href="https://github.com/W-LucazMota?tab=repositories">
         <img 
             alt="My Repositories" 
             title="See my repositories" 
             src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
-    <a href="">
+    <a href="https://www.google.com/maps/place/Goi%C3%A1s/@-15.9466686,-49.5778588,7z/data=!3m1!4b1!4m6!3m5!1s0x935db96386b920f5:0x8c6d8f8cd8cf0d3!8m2!3d-15.7050424!4d-49.3653149!16zL20vMDEyeXpf?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D">
         <img 
             alt="My Repositories" 
-            title="See my repositories" 
+            title="State of Goias" 
             src="https://custom-icon-badges.demolab.com/badge/goiás,_br-yellow?style=for-the-badge&logo=location&logoColor=white"
         />
     </a>
